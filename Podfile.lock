@@ -1,0 +1,20 @@
+PODS:
+  - OCMock (3.3.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - OCMock (~> 3.3.1)
+  - SDWebImage (~> 3.8.2)
+  - SwiftyJSON (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: 54903645f78c69a350b26767e85c4f24325fd67b
+
+COCOAPODS: 1.1.1
